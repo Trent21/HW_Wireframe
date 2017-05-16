@@ -21,7 +21,7 @@ body {
 
 #section {
   padding: 20px;
-  position: absolute;
+  position: absolut;
   border-style: solid;
   float: left;
   width:430px;
@@ -64,8 +64,7 @@ body {
   position:fixed;
   bottom:0;
   width:955px;
-  background-color:#ebebeb;
-  
+  background-color:#ebebeb;  
 }
 
 #header,
